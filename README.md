@@ -12,3 +12,4 @@
 - [Async Programming : Introduction to Async/Await on ASP.NET](https://msdn.microsoft.com/en-us/magazine/dn802603.aspx)
 - [Using Asynchronous Methods in ASP.NET MVC 4](https://docs.microsoft.com/en-us/aspnet/mvc/overview/performance/using-asynchronous-methods-in-aspnet-mvc-4)
 - [Async/await on Hacker News](https://news.ycombinator.com/item?id=13383016)
+- [.NET Core MVC Thread Pool: Sequential vs Async Performance](https://caleblloyd.com/software/net-core-mvc-thread-pool-vs-async/)
